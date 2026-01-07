@@ -1,2 +1,2 @@
-# -WCCI-26-IN-01-Learning-on-Visibility-Graphs-A-GNN-Framework-for-Currency-Exchange-Rate-Forecasting
+# [WCCI-26-IN-01]-Learning-on-Visibility-Graphs-A-GNN-Framework-for-Currency-Exchange-Rate-Forecasting
 Designed and implemented a graph-based time-series forecasting framework using horizontal visibility graphs and GNN. Demonstrated that direct neural learning on graph structure significantly outperforms LSTM baselines using handcrafted graph statistics, achieving over 90% reduction in forecasting error and stable multi-step predictions.
